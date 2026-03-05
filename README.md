@@ -3,6 +3,12 @@
 
 The Secure Document Exchange System is a web-based platform designed for legal professionals and clients to share, download, and verify documents securely. It ensures confidentiality, integrity, and controlled access using hybrid encryption (AES + RSA), role-based authentication, and digital signature verification.
 
+**Demo**
+
+Watch the video demonstration of the Secure Document Exchange System:
+
+``https://drive.google.com/file/d/1ekpqbPuqNdWWe8EmS02UhaAjuHYYDVNs/view?usp=drive_link``
+
 **Features**
 
 - User Roles: Users can register as standard users, while administrators assign elevated roles (Lawyer or Admin).
