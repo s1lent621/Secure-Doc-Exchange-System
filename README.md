@@ -5,17 +5,17 @@ The Secure Document Exchange System is a web-based platform designed for legal p
 
 **Features**
 
-User Roles: Users can register as standard users, while administrators assign elevated roles (Lawyer or Admin).
+- User Roles: Users can register as standard users, while administrators assign elevated roles (Lawyer or Admin).
 
-Secure File Upload & Download: Documents are encrypted before transmission and decrypted only by authorized recipients.
+- Secure File Upload & Download: Documents are encrypted before transmission and decrypted only by authorized recipients.
 
-Hybrid Encryption: Combines AES-256 for fast document encryption and RSA for secure key exchange.
+- Hybrid Encryption: Combines AES-256 for fast document encryption and RSA for secure key exchange.
 
-Document Verification: Supports hash checks and digital signatures to ensure integrity.
+- Document Verification: Supports hash checks and digital signatures to ensure integrity.
 
-Encrypted Database Storage: Protects documents even if the database is compromised.
+- Encrypted Database Storage: Protects documents even if the database is compromised.
 
-Performance Optimized: Efficient encryption and decryption for both small and large files.
+- Performance Optimized: Efficient encryption and decryption for both small and large files.
 
 **Installation / Setup**
 
